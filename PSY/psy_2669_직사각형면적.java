@@ -1,6 +1,8 @@
+package swea7;
+
 import java.util.Scanner;
 
-public class Main12 {
+public class psy_2669_직사각형면적 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 

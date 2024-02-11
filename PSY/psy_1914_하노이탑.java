@@ -1,7 +1,9 @@
+package swea7;
+
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class psy_1914 {
+public class psy_1914_하노이탑 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int N = sc.nextInt();
