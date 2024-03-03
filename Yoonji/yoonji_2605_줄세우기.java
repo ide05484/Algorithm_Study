@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class 줄세우기_2605 {
+public class yoonji_2605_줄세우기 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

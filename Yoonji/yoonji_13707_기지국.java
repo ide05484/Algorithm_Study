@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 기지국_13707 {
+public class yoonji_13707_기지국 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 

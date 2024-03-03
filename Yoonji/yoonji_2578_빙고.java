@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 빙고_2578 {
+public class yoonji_2578_빙고 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

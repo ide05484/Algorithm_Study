@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 폭탄마_13772 {
+public class yoonji_13772_폭탄마 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

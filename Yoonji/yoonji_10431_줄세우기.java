@@ -1,8 +1,6 @@
-package temp;
-
 import java.util.Scanner;
 
-public class 줄세우기_10431 {
+public class yoonji_10431_줄세우기 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

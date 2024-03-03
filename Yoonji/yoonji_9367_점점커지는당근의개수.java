@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 당근 {
+public class yoonji_9367_점점커지는당근의개수 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

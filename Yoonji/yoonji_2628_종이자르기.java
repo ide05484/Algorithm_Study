@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class 종이자르기_2628 {
+public class yoonji_2628_종이자르기 {
 	
 	/*
 	 *  가로 세로로 자르는 곳의 지점을 찾고,

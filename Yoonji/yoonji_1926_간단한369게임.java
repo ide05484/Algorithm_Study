@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 간단한369게임 {
+public class yoonji_1926_간단한369게임 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

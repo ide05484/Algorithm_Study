@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 수열_2559 {
+public class yoonji_2559_수열 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

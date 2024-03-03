@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 백만장자프로젝트_1859 {
+public class yoonji_1859_백만장자프로젝트 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

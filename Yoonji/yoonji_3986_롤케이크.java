@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class 롤케이크_3986 {
+public class yoonji_3986_롤케이크 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

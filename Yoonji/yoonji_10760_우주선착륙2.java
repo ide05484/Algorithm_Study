@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 우주선착륙_10760 {
+public class yoonji_10760_우주선착륙2 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

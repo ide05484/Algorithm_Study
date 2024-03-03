@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 숫자배열회전_1961 {
+public class yoonji_1961_숫자배열회전 {
 	
 	static int N;
 

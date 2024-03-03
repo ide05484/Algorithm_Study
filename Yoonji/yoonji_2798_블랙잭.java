@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 블랙잭_2798 {
+public class yoonji_2798_블랙잭 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

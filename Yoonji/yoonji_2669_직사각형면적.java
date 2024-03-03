@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 직사각형네개합면적_2669 {
+public class yoonji_2669_직사각형면적 {
 	
 	public static void main(String[] args) {
 		

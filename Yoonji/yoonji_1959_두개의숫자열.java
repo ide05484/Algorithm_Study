@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 두개의숫자열_1959 {
+public class yoonji_1959_두개의숫자열 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 	
@@ -28,7 +28,12 @@ public class 두개의숫자열_1959 {
 				for(int i = 0; i <= repeat; i++) { // 반복횟수
 					int sum = 0;
 					for(int j = 0; j < N; j++) { // 짧은 배열의 길이
-						sum += ///////////여기를 모르겠음 ///////
+						sum += arr1[j] * arr2[j+i];
+						//System.out.print(arr1[j] * arr2[j+i] + " ");
+					}
+					//System.out.println();
+					if(max < sum) {
+						max = sum;
 					}
 				}
 			} else {
@@ -36,17 +41,21 @@ public class 두개의숫자열_1959 {
 				for(int i = 0; i <= repeat; i++) { // 반복횟수
 					int sum = 0;
 					for(int j = 0; j < M; j++) { // 짧은 배열의 길이
-						sum += ///////////여기를 모르겠음 ///////
+						sum += arr2[j] * arr1[j+i];
+						//System.out.print(arr2[j] * arr1[j+i] + " ");
+					}
+					//System.out.println();
+					if(max < sum) {
+						max = sum;
 					}
 				}
 				
 				
-			}
-			
-			
+			}		
 			
 			//양식에 맞추어 출력
 			System.out.println("#" + tc + " " + max);
+		}
 		
 	}
 }
