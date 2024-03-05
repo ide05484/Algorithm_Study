@@ -10,6 +10,8 @@ public class yoonji_2635_수이어가기 {
 		
 		int max = 0;
 		ArrayList<Integer> maxList = new ArrayList<>();
+		// if max 있는 곳에 넣어도 좋을듯?
+		// 재귀로도 풀어보기
 		
 		for(int i = 1; i <= N; i++) {
 			ArrayList<Integer> list = new ArrayList<>();
