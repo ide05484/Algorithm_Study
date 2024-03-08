@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class 이창현_Hashing_15829 {
 	static Scanner sc = new Scanner(System.in);
-	static int L; //글자 수(안씀)
+	static int L; //글자 수(안씀) 
 	static long result; //결과 해싱
 	static String str; //문장
 	static long r = 1; // (작은 서로소 시작문 1)
