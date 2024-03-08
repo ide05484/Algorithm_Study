@@ -4,25 +4,26 @@ import java.util.Scanner;
 
 public class 이창현_블랙잭_2798 {
 	static Scanner sc = new Scanner(System.in);
-	static int N, M, result;
+	static int N, M, result; //N, M, 결과 선언
 	static int[] deck; //n배열
 	public static void main(String[] args) {
-		test();
+		test(); //테스트
 	}
 	private static void test() {
-		testInput();
-		testProcess();
-		testOutput();
+		testInput(); //입력
+		testProcess(); //실행
+		testOutput(); //출력
 	}
 	private static void testInput() {
-		N= sc.nextInt();
-		M= sc.nextInt();
-		deck = new int[N];
+		N= sc.nextInt(); //N
+		M= sc.nextInt(); //M
+		deck = new int[N]; //놓인 숫자
 		for(int i = 0 ; i<N; i++) {
-			deck[i] = sc.nextInt();
+			deck[i] = sc.nextInt(); //덱 받아오기
 		}
 	}
 	private static void testProcess() {
+		//총 3개의 카드를 선택하는 것을 전부 탐색함
 		for(int i = 0; i<N-2; i++) {
 			if(deck[i]>M) { //합이 이미 넘었으면 반환
 				continue;
