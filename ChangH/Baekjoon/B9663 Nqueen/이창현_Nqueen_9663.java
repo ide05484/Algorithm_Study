@@ -32,13 +32,13 @@ public class 이창현_Nqueen_9663 {
 		chess: for (int i = 0; i < N; i++) {
 			if (!board[Ncnt][i]) {
 				for (int j = 0; j < N; j++) { // 위로 탐색해서 퀸이 있으면 패스
-					if (board[Ncnt][j])
+					if (board[Ncnt][j]) //양옆으로
 						continue chess;
-					if (board[j][i])
+					if (board[j][i]) //위아래로
 						continue chess;
-					if (Ncnt - j >= 0 && i - j >= 0 && board[Ncnt - j][i - j])
+					if (Ncnt - j >= 0 && i - j >= 0 && board[Ncnt - j][i - j]) //대각선으로
 						continue chess;
-					if (Ncnt - j >= 0 && i + j < N && board[Ncnt - j][i + j])
+					if (Ncnt - j >= 0 && i + j < N && board[Ncnt - j][i + j]) //대각선으로
 						continue chess;
 				}
 				// 전부 돌았는데 놓을 수 있는 위치면 퀸을 놓고 재귀
