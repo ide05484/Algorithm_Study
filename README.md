@@ -6,8 +6,8 @@
 | 날짜 | 문제 | 문제 링크 |
 |--------|------|-------|
 | 2024.03.26 | N과 M 시리즈 | https://www.acmicpc.net/workbook/view/2052 |
-| 2024.03.29 | 팩토리얼 0의 개수 | https://www.acmicpc.net/problem/1676 |
-|            | 수 정렬하기 2 | https://www.acmicpc.net/problem/2751 |
+| 2024.03.29 | 연결 요소의 개수 | [https://www.acmicpc.net/problem/1676](https://www.acmicpc.net/problem/11724) |
+| 2024.04.02 | DFS와 BFS | [https://www.acmicpc.net/problem/2751](https://www.acmicpc.net/problem/1260) |
 ---------------------------------------------------
 
 # 스터디 규칙
