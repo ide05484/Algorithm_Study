@@ -6,7 +6,7 @@ import java.io.OutputStreamWriter;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class NM_15655 {
+public class NM05_15654 {
 
 	static int[] nums, result;
 	static int N, M;
@@ -44,25 +44,25 @@ public class NM_15655 {
 
 	}
 
-    // idx: 결과 배열에 저장할 위치
-    // start: 선택할 숫자의 시작 인덱스
-    public static void perm(int idx, int start) {
-        if (idx == M) {
-            for (int i = 0; i < M; i++) {
-                System.out.print(result[i] + " ");
-            }
-            System.out.println();
-            return;
-        }
-        // 모든 원소를 돌면서 판단하겠다
-        for (int i = start; i < N; i++) {
-            // 이미 선택된 숫자는 건너뛴다
-            //if (result[idx] != 0) continue;
-            result[idx] = nums[i]; // 숫자 선택
-            perm(idx + 1, i + 1); // 다음 재귀 호출은 다음 숫자부터 시작
-            result[idx] = 0; // 숫자 제거 (재귀 호출 이후 되돌리기)
-        }
+	// idx: 결과 배열에 저장할 위치
+	// visited: 사용한 원소의 위치를 기록하기 위한 정수
+	public static void perm(int idx, int visited) throws IOException {
+		if (idx == M) {
+			for (int i = 0; i < M; i++) {
+				bw.write(result[i] + " ");
+			}
+			bw.write("\n");
+			return;
+		}
+		// 모든 원소를 돌면서 판단하겠다
+		for (int i = 0; i < N; i++) {
+			if ((visited & (1 << i)) != 0) continue;
+			// 아래의 코드가 실행된다는 것은 i번째 원소를 하용하지 않았다는 것
+			result[idx] = nums[i];
+			perm(idx + 1, visited | (1 << i));
 
-    }
+		}
+
+	}
 
 }

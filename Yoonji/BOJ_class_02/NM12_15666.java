@@ -8,10 +8,10 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.StringTokenizer;
 
-public class NM_15664 {
+public class NM12_15666 {
 
 	static Integer[] nums, result, arr;
-	static Integer N, M;
+	static int N, M;
 	static BufferedReader br;
 	static BufferedWriter bw;
 	static StringTokenizer st;
@@ -36,11 +36,10 @@ public class NM_15664 {
 		for (int i = 0; i < N; i++) {
 			nums[i] = Integer.parseInt(st.nextToken());
 		}
-		
-//		Set<Integer>set = new HashSet<Integer>(Arrays.asList(nums));
-//		arr = set.toArray(new Integer[0]);
-		
-		Arrays.sort(nums);
+
+		Set<Integer>set = new HashSet<Integer>(Arrays.asList(nums));
+		arr = set.toArray(new Integer[0]);
+		Arrays.sort(arr);
 		
 		perm(0, 0);
 
@@ -59,14 +58,10 @@ public class NM_15664 {
             System.out.println();
             return;
         }
-        
-        int prev = -1; //이전에 선택한 숫자를 저장하기 위한 변수
         // 모든 원소를 돌면서 판단하겠다
-        for (int i = start; i < N; i++) {
-            // 이미 선택된 숫자는 건너뛴다
-            // if (result[idx] != 0) continue;
-            result[idx] = nums[i]; // 숫자 선택
-            perm(idx + 1, i + 1); // 다음 재귀 호출은 다음 숫자부터 시작
+        for (int i = start; i < arr.length; i++) {
+            result[idx] = arr[i]; // 숫자 선택
+            perm(idx + 1, i); // 다음 재귀 호출은 현재 숫자부터 시작
             result[idx] = 0; // 숫자 제거 (재귀 호출 이후 되돌리기)
         }
 

@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class NM_15652 {
+public class NM04_15652 {
 
     static int[] nums, result;
     static int N, M;
