@@ -6,7 +6,7 @@
 | 날짜 | 문제 | 문제 링크 |
 |--------|------|-------|
 | 2024.03.26 | N과 M 시리즈 | https://www.acmicpc.net/workbook/view/2052 |
-| 2024.03.29 | 연결 요소의 개수 | [연결요소](https://www.acmicpc.net/problem/11724) |
+| 2024.03.29 | 연결 요소의 개수 | https://www.acmicpc.net/problem/11724 |
 | 2024.04.02 | DFS와 BFS | https://www.acmicpc.net/problem/1260 |
 |            | 유기농 배추 | https://www.acmicpc.net/problem/1012 |
 | 2024.04.05 | 단지번호 붙이기 | https://www.acmicpc.net/problem/2667 |
