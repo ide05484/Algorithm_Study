@@ -10,7 +10,7 @@
 | 2024.04.02 | DFS와 BFS | [https://www.acmicpc.net/problem/2751](https://www.acmicpc.net/problem/1260) |
 |            | 유기농 배추 | https://www.acmicpc.net/problem/1012 |
 | 2024.04.05 | 단지번호 붙이기 | https://www.acmicpc.net/problem/2667 |
-|            | 점프왕 젤리 | https://www.acmicpc.net/problem/16173 |
+|            | 점프왕 젤리 | [https://www.acmicpc.net/problem/16173](https://www.acmicpc.net/problem/16174) |
 ---------------------------------------------------
 
 # 스터디 규칙
