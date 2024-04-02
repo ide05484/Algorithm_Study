@@ -18,9 +18,9 @@
 ---------------------------------------------------
 
 * **참고 문제집**
-DFS(깊이우선 탐색) : https://www.acmicpc.net/problemset?sort=ac_desc&algo=127
-BFS(너비우선 탐색) : https://www.acmicpc.net/problemset?sort=ac_desc&algo=126
-DP : https://www.acmicpc.net/workbook/view/7836 | https://www.acmicpc.net/problemset?sort=ac_desc&algo=25 
+DFS(깊이우선 탐색) : https://www.acmicpc.net/problemset?sort=ac_desc&algo=127 <br>
+BFS(너비우선 탐색) : https://www.acmicpc.net/problemset?sort=ac_desc&algo=126 <br>
+DP : https://www.acmicpc.net/workbook/view/7836 | https://www.acmicpc.net/problemset?sort=ac_desc&algo=25 <br>
 
 
 # 스터디 규칙
