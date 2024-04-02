@@ -17,7 +17,7 @@
 |            | 퇴사2 | https://www.acmicpc.net/problem/15486 |    |
 ---------------------------------------------------
 
-* **참고 문제집**
+* **참고 문제집** <br>
 DFS(깊이우선 탐색) : https://www.acmicpc.net/problemset?sort=ac_desc&algo=127 <br>
 BFS(너비우선 탐색) : https://www.acmicpc.net/problemset?sort=ac_desc&algo=126 <br>
 DP : https://www.acmicpc.net/workbook/view/7836 | https://www.acmicpc.net/problemset?sort=ac_desc&algo=25 <br>
