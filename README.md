@@ -11,10 +11,10 @@
 |            | 유기농 배추 | https://www.acmicpc.net/problem/1012 |  |
 | 2024.04.05 | 단지번호 붙이기 | https://www.acmicpc.net/problem/2667 |    |
 |            | 점프왕 젤리 | https://www.acmicpc.net/problem/16174 |    |
-| 2024.04.09 | 계단 오르기 | https://www.acmicpc.net/problem/2579 | DP |
-|            | 1로 만들기 | https://www.acmicpc.net/problem/1463 |    |
-| 2024.04.12 | 가장 긴 감소하는 부분 수열 | https://www.acmicpc.net/problem/11722 |    |
-|            | 퇴사2 | https://www.acmicpc.net/problem/15486 |    |
+| 2024.04.09 | 가장 긴 증가하는 부분수열 | https://www.acmicpc.net/problem/11053 | DP |
+|            | 평범한 배낭 | https://www.acmicpc.net/problem/12865 |    |
+| 2024.04.12 | LCS | https://www.acmicpc.net/problem/9251 |    |
+|            | 동전2 | https://www.acmicpc.net/problem/2294 |    |
 ---------------------------------------------------
 
 * **참고 문제집** <br>
