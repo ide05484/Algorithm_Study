@@ -13,7 +13,8 @@
 |            | 점프왕 젤리 | https://www.acmicpc.net/problem/16174 |    |
 | 2024.04.09 | 가장 긴 증가하는 부분수열 | https://www.acmicpc.net/problem/11053 | DP |
 |            | 평범한 배낭 | https://www.acmicpc.net/problem/12865 |    |
-| 2024.04.12 | LCS | https://www.acmicpc.net/problem/9251 |    |
+| 2024.04.12 | SWEA 문제풀면서 알고 공부 | 이번 알고 마지막 시험 화이팅 화이팅 |
+| 2024.04.16 | LCS | https://www.acmicpc.net/problem/9251 |    |
 |            | 동전2 | https://www.acmicpc.net/problem/2294 |    |
 ---------------------------------------------------
 
