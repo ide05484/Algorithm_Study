@@ -16,6 +16,8 @@
 | 2024.04.12 | SWEA 문제풀면서 알고 공부 | 이번 알고 마지막 시험 화이팅 화이팅 |
 | 2024.04.16 | LCS | https://www.acmicpc.net/problem/9251 |    |
 |            | 동전2 | https://www.acmicpc.net/problem/2294 |    |
+| 2024.04.19 | 효율적인 해킹 | https://www.acmicpc.net/problem/1325 | 그래프의 표현 |
+|            | 줄 세우기 | https://www.acmicpc.net/problem/2252 |  그래프(위상 정렬)  |
 ---------------------------------------------------
 
 * **참고 문제집** <br>
