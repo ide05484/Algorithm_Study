@@ -22,6 +22,10 @@
 |            | 불 | https://www.acmicpc.net/problem/5427 |        |
 | 2024.04.26 | ~~신촌 도로망 관리와 쿼리~~ | ~~https://www.acmicpc.net/problem/31427~~ | ~~크루스칼과 프림(**플레티넘 - 창현님께 물어보기)~~ |
 |            | 회의실 배정하기 | https://www.acmicpc.net/problem/1931 | 그리디 |
+| 2024.04.30 | 홈 방범 서비스 | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu |  역량테스트 A형  |
+|            | 프로세서 연결하기 | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf |        |
+| 2024.05.03 | 벌꿀 채취 | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu |     [쉬운 벌꿀채취](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWIakQe6tToDFAVH)     |
+|            | 벽돌깨기 | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo |        |
 ---------------------------------------------------
 
 * **참고 문제집** <br>
