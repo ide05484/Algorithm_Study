@@ -20,7 +20,7 @@
 |            | 줄 세우기 | https://www.acmicpc.net/problem/2252 |  그래프(위상 정렬)  |
 | 2024.04.23 | 보물섬 | https://www.acmicpc.net/problem/2589 |          |
 |            | 불 | https://www.acmicpc.net/problem/5427 |        |
-| 2024.04.26 | 신촌 도로망 관리와 쿼리 | https://www.acmicpc.net/problem/31427 | 크루스칼과 프림(**플레티넘 - 창현님께 물어보기) |
+| 2024.04.26 | ~~신촌 도로망 관리와 쿼리~~ | ~~https://www.acmicpc.net/problem/31427~~ | ~~크루스칼과 프림(**플레티넘 - 창현님께 물어보기)~~ |
 |            | 회의실 배정하기 | https://www.acmicpc.net/problem/1931 | 그리디 |
 ---------------------------------------------------
 
