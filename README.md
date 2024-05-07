@@ -26,6 +26,10 @@
 | 2024.05.03 | 프로세서 연결하기 | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf |        |
 |            | 벌꿀 채취 | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu |     [쉬운 벌꿀채취](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWIakQe6tToDFAVH)     |
 | 2024.05.07 | 벽돌깨기 | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo |        |
+| 2024.05.10 | 친구 관계 파악하기(ABCDE) | https://www.acmicpc.net/problem/13023 |        |
+|            | 특정 거리의 도시 찾기 | https://www.acmicpc.net/problem/18352 |         |
+| 2024.05.14 | 마인크래프트 | https://www.acmicpc.net/problem/18111 |       |
+|            | 영역 구하기 | https://www.acmicpc.net/problem/2583 |      |
 ---------------------------------------------------
 
 * **참고 문제집** <br>
