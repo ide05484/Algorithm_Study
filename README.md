@@ -30,6 +30,8 @@
 |            | 특정 거리의 도시 찾기 | https://www.acmicpc.net/problem/18352 |         |
 | 2024.05.14 | 마인크래프트 | https://www.acmicpc.net/problem/18111 |       |
 |            | 영역 구하기 | https://www.acmicpc.net/problem/2583 |      |
+| 2024.05.17 | 오르막 수 | https://www.acmicpc.net/problem/11057 |      |
+|            | 요세푸스 문제 | https://www.acmicpc.net/problem/1158 |      |
 ---------------------------------------------------
 
 * **참고 문제집** <br>
